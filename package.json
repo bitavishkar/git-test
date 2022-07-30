@@ -1,0 +1,21 @@
+{
+  "name": "git-test",
+  "version": "1.0.0",
+  "description": "Howdy",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bitavishkar/git-test.git"
+  },
+  "author": "Avishkar Ghadge",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bitavishkar/git-test/issues"
+  },
+  "homepage": "https://github.com/bitavishkar/git-test#readme"
+}
